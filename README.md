@@ -2,7 +2,6 @@
 
 Harder, Better, Faster, Stronger !
 
-🌱 I’m currently learning Deep Learning and Artificial Intelligence
 
 \
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungriKIM&show_icons=true&theme=dark)
