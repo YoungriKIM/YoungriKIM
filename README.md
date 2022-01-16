@@ -1,6 +1,8 @@
 # from Neverland import 702
 
-### Harder🔥, Better💡, Faster🏃, Stronger🤝!
+### Harder🔥, Better💡, Faster🏃, Stronger🤝  
+당분간 주말만 커밋!  
+평일에는 영어공부📚  
 
  
 \
