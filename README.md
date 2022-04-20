@@ -1,7 +1,6 @@
 # from Neverland import 702
 
 ### Harder🔥, Better💡, Faster🏃, Stronger🤝  
-당분간 영어공부📚  
 
  
 \
