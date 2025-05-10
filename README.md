@@ -1,36 +1,40 @@
-# 👋 Hi, This is Youngri!  
-### Harder🔥, Better💡, Faster🏃, Stronger🤝  
-A passionate **IT professional** with experience spanning **AI development** and **data project management**.<br>I enjoy solving complex problems, optimizing workflows, and collaborating to create impactful solutions.
+# 👋 Hi, I'm Youngri!  
+### Curious Mind 🧠 | Reliable Builder 🛠️ | Growth-Driven 🚀  
+A passionate **IT professional** with hands-on experience in **quality assurance**, **automation**, and **data-driven development**.  
+I love building things that work—better, faster, and with real impact.
 
 ---
 
 ## 🌟 About Me
-- 🚀 **Current Focus**: Managing IT and AI projects with a strong emphasis on data building and quality assurance.
-- 🌱 **Learning**: Continuously expanding my knowledge in automation and advanced project management tools.
-- 📍 **Based in**: Seoul, South Korea
+- 🔍 **Primary Focus**: QA, test automation, and process optimization  
+- 🧩 **Versatile Background**: AI development, data operations, and project coordination  
+- 🚀 **Current Goal**: Expanding my skills in automation and modern engineering workflows  
 
 ---
 
 ## 🛠 Skills & Tools
+
 ### 👩‍💻 **Languages**
-- Python, SQL, HTML, CSS, Markdown
+- Python, SQL, HTML/CSS, Markdown
 
-### 📊 **Technologies**
-- 🛠 Project Management & Collaboration
-  - JIRA, Confluence, Notion, Slack
-- 📈 Data Management & Automation
-  - PostgreSQL, MySQL, AWS S3, Python (Pandas, NumPy, OpenCV), LabelStudio
-- 🎨 No-Code Tools
-  - Airtable, Webflow, Softr, Oopy (Workflow automation, dynamic interface creation, and task management)
-- 🔍 QA & Testing
-  - Selenium, End-to-End Testing Frameworks
-- 📄 Documentation & Reporting
-  - Excel, Google Sheets, MkDocs, Markdown
+### 🧪 **Testing & QA**
+- Selenium, Appium, Postman, Pytest, JMeter  
+- Test case design, E2E scenario building, CI/CD (GitHub Actions)
 
-### 🔨 **Core Competencies**
-- Project Management (Schedule, Budget, Quality Control)  
-- Data Automation & Process Optimization  
-- End-to-End QA and Testing
+### 🔧 **Technologies & Tools**
+- Databases: PostgreSQL, MySQL  
+- Cloud & Data: AWS S3, Pandas, NumPy, OpenCV  
+- Project Tools: Jira, Notion, Confluence, Slack  
+- No-Code: Airtable, Webflow, Oopy, Softr
+
+---
+
+## 💡 Core Strengths
+- Reliable test automation for mobile/web systems  
+- Clean documentation and structured collaboration  
+- Data-aware workflows & continuous improvement mindset  
+
+
 
 ---
 
