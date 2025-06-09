@@ -48,9 +48,7 @@ I love building things that work—better, faster, and with real impact.
 ## 🌍 Let's Connect
 - **GitHub**: [YoungriKIM](https://github.com/YoungriKIM)  
 - **Email**: lemontleo0311@gmail.com
-- **Community**: [ASG (AI Synergy Group) - Naver Cafe](https://cafe.naver.com/aisynergygroup)  
-  - A community for AI enthusiasts and professionals, focusing on Python coding practice, AI discussions, and study sessions.  
-  - Currently hosting 70+ articles, with a goal of creating 200+ high-quality posts to foster collaboration and knowledge-sharing among members.  
+
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungriKIM&count_bg=%23FF9E00&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FYoungriKIM?color=green&label=hits&size=small)](https://myhits.vercel.app)
