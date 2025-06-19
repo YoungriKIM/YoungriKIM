@@ -39,16 +39,17 @@
 
 ---
 
-### 🎓 학습 및 자격증 이력
+### 🎓 교육 및 자격증 이력
 
-* **정보처리기사**
-
-* **[Software Development Processes and Methodologies - University of Minnesota)](https://coursera.org/share/bac563e2053e5e237559b8c9506552ca)**
+* [Introduction to Mobile App Development - IBM](https://coursera.org/share/cf13c4dc1d2ee6312f759dc4cef41108) (2025.03)
+  * 모바일 앱 개발 흐름, UI 구조 이해를 통해 QA 관점에서의 모바일 앱 분석 능력 향상
+ 
+* [Software Development Processes and Methodologies - University of Minnesota)](https://coursera.org/share/bac563e2053e5e237559b8c9506552ca) (2025.02)
   * 소프트웨어 개발 생명주기(SDLC), 애자일 기반 개발/테스트 프로세스 이론 학습
 
-* **[Introduction to Mobile App Development - IBM](https://coursera.org/share/cf13c4dc1d2ee6312f759dc4cef41108)**
-  * 모바일 앱 개발 흐름, UI 구조 이해를 통해 QA 관점에서의 모바일 앱 분석 능력 향상
-
+* 정보처리기사 (2024.06)
+  
+* 머신러닝 딥러닝 기반 인공지능 고급 개발자 양성과정 (2020.12 ~ 2021.07)
 ---
 
 ## 📁 대표 프로젝트
